@@ -5,5 +5,5 @@ the <b>mission_name</b> and <b>details</b> fields as returned by the server.
 
 <h2><b>Project launching</b></h2>
 
-This Flutter project is ready to launch and test. Just clone or download it. Open it in Flutter.  Connect Android Mobile phone and then "flutter run" - for launching, or  "flutter test" - for unit tests.
+This Flutter project is ready to launch and test. Just clone or download it. Open it in IDE.  Connect Android Mobile phone and then "flutter run" - for launching, or  "flutter test" - for unit tests.
 
